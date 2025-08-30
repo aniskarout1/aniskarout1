@@ -26,9 +26,6 @@ With experience in **machine learning, deep learning, and data visualization**, 
 
 ---
 
-⭐️ *“Data is the new oil, but insights are the new currency.”*  
-
----
 
 ###
 
@@ -83,15 +80,6 @@ With experience in **machine learning, deep learning, and data visualization**, 
 </div>
 
 ###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniskarout1/aniskarout1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniskarout1/aniskarout1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aniskarout1/aniskarout1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/aniskarout1/aniskarout1/output/snake.svg" alt="Snake animation" />
-
-###
+⭐️ *“Data is the new oil, but insights are the new currency.”*  
